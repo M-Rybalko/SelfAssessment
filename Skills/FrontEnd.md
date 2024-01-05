@@ -3,44 +3,44 @@
 - Basics
   - HTML basics: 🔬 researched
   - Semantic HTML: 🙋 explained
-  - Forms
-  - Accessibility
+  - Forms: 🙋 explained
+  - Accessibility: 🙋 explained
   - CSS basics: 🔬 researched
   - CSS layouts: 🎓 known
-  - SCSS
+  - SCSS: 🖐️ used
   - Responsiveness: 🎓 known
   - JS basics: 🙋 explained
-  - TS basics
+  - TS basics: 🙋 explained
 - Package Managers
   - npm: 🖐️ used
-  - pnpm
-  - yarn
+  - pnpm: 👂 heard
+  - yarn: 🖐️ used
 - React.js
-  - create-react-app
-  - Functional Components
-  - Class Components
-  - JSX
-  - React DOM
-  - Component props
-  - Conditional rendering
-  - Component purity
-  - Event handlers
-  - State
-  - State management libraries
-  - React hooks
-  - React form libraries
-  - useState()
-  - useEffect()
-  - useRef()
-  - React MUI
-  - sx props
+  - create-react-app: 🎓 known
+  - Functional Components: 🙋 explained
+  - Class Components: 🎓 known
+  - JSX: 🙋 explained
+  - React DOM: 🖐️ used
+  - Component props: 🙋 explained
+  - Conditional rendering: 🙋 explained
+  - Component purity: 🙋 explained
+  - Event handlers: 🖐️ used
+  - State: 🙋 explained
+  - State management libraries: 🖐️ used
+  - React hooks: 🖐️ used
+  - React form libraries: 🖐️ used
+  - useState(): 🖐️ used
+  - useEffect(): 🖐️ used
+  - useRef(): 🖐️ used
+  - React MUI: 🙋 explained
+  - sx props: 🙋 explained
 - Next.js
-  - create-next-app
-  - Routing
-  - Linking
-  - Pages and layouts
-  - Data fetching
-  - Rendering
-  - Client components
-  - Server components
-  - SSR
+  - create-next-app: 🖐️ used
+  - Routing: 🙋 explained
+  - Linking: 🙋 explained
+  - Pages and layouts: 🙋 explained
+  - Data fetching: 🙋 explained
+  - Rendering: 🙋 explained
+  - Client components: 🖐️ used
+  - Server components: 🖐️ used
+  - SSR: 🎓 known
