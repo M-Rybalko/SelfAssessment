@@ -1,16 +1,16 @@
 ## Programming fundamental concepts
 
 - Language
-  - Object
-  - this
-  - arrow function
-  - async function
-  - call
-  - bind
-  - apply
-  - instanceof
-  - ...spread
-  - ...rest
+  - Object: 🔬 researched
+  - this: 🔬 researched
+  - arrow function: 🔬 researched
+  - async function: 🙋 explained
+  - call: 🙋 explained
+  - bind: 🙋 explained
+  - apply: 🙋 explained
+  - instanceof: 🙋 explained
+  - ...spread: 🔬 researched
+  - ...rest: 🔬 researched
   - typeof
   - destructuring
   - generator
