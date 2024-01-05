@@ -1,0 +1,46 @@
+## Front-end development skills
+
+- Basics
+  - HTML basics: 🔬 researched
+  - Semantic HTML: 🙋 explained
+  - Forms
+  - Accessibility
+  - CSS basics: 🔬 researched
+  - CSS layouts: 🎓 known
+  - SCSS
+  - Responsiveness: 🎓 known
+  - JS basics: 🙋 explained
+  - TS basics
+- Package Managers
+  - npm: 🖐️ used
+  - pnpm
+  - yarn
+- React.js
+  - create-react-app
+  - Functional Components
+  - Class Components
+  - JSX
+  - React DOM
+  - Component props
+  - Conditional rendering
+  - Component purity
+  - Event handlers
+  - State
+  - State management libraries
+  - React hooks
+  - React form libraries
+  - useState()
+  - useEffect()
+  - useRef()
+  - React MUI
+  - sx props
+- Next.js
+  - create-next-app
+  - Routing
+  - Linking
+  - Pages and layouts
+  - Data fetching
+  - Rendering
+  - Client components
+  - Server components
+  - SSR
