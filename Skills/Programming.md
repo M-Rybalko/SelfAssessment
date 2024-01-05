@@ -102,5 +102,5 @@
   - exception: 🎓 known
   - return early: 👂 heard
   - unittest: 👂 heard
-  - git
-  - github
+  - git: 🙋 explained
+  - github: 🙋 explained
