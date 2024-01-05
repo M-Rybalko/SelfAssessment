@@ -1,106 +1,106 @@
 ## Programming fundamental concepts
 
 - Syntax and concepts
-  - value
-  - identifier
-  - variable
-  - constant
-  - scalar
-  - literal
-  - expression
-  - heap
-  - function
-  - procedure
-  - method
-  - class
-  - prototype
-  - event
-  - type
-  - primitive types
-  - reference types
-  - flag
-  - lexical scope
-  - code block
-  - conditions
-  - loops
-  - assignment
-  - regular expression
-  - interface
-  - contract
-  - module
-  - call stack
+  - value: 🔬 researched
+  - identifier: 🙋 explained
+  - variable: 🔬 researched
+  - constant: 🔬 researched
+  - scalar: 🙋 explained
+  - literal: 🙋 explained
+  - expression: 🙋 explained
+  - heap: 🎓 known
+  - function: 🔬 researched
+  - procedure: 🔬 researched
+  - method: 🎓 known
+  - class: 🙋 explained
+  - prototype: 🎓 known
+  - event: 🎓 known
+  - type: 🙋 explained
+  - primitive types: 🙋 explained
+  - reference types: 🙋 explained
+  - flag: 🎓 known
+  - lexical scope: 👂 heard
+  - code block: 🎓 known
+  - conditions: 🙋 explained
+  - loops: 🙋 explained
+  - assignment: 🙋 explained
+  - regular expression: 🙋 explained
+  - interface: 👂 heard
+  - contract: 👂 heard
+  - module: 🎓 known
+  - call stack: 👂 heard
 - Functions
-  - signature
-  - argument
-  - parameter
-  - pure function
-  - lambda expression
-  - side effects
-  - closure
-  - partial application
-  - curry
-  - higher order
-  - recursion
-  - callback
-  - listener
-  - compose
-  - pipe
-  - memoize
-  - wrapper
-  - functor
-  - monad
+  - signature: 🙋 explained
+  - argument: 🙋 explained
+  - parameter: 🙋 explained
+  - pure function: 🖐️ used
+  - lambda expression: 🙋 explained
+  - side effects: 🎓 known
+  - closure: 🎓 known
+  - partial application: 🎓 known
+  - curry: 🎓 known
+  - higher order: 🎓 known
+  - recursion: 🙋 explained
+  - callback: 🙋 explained
+  - listener: 👂 heard
+  - compose: 👂 heard
+  - pipe: 👂 heard
+  - memoize: 👂 heard
+  - wrapper: 👂 heard
+  - functor: 👂 heard
+  - monad: 👂 heard
   - monoid
-  - generator
+  - generator: 🖐️ used
   - coroutine
 - Data structures
-  - array
-  - structure
-  - record
-  - enum
-  - instance
-  - object
-  - class
-  - collection
-  - set
-  - hash table
-  - linked list
-  - doubly list
-  - unrolled list
-  - circular list
-  - queue
-  - stack
-  - deque
-  - tree
-  - graph
-  - iterator
-  - mutable state
-  - immutable state
-  - serialization
-  - string parsing
+  - array: 🔬 researched
+  - structure: 🙋 explained
+  - record: 🎓 known
+  - enum: 🎓 known
+  - instance: 🙋 explained
+  - object: 🙋 explained
+  - class: 🙋 explained
+  - collection: 🖐️ used
+  - set: 🖐️ used
+  - hash table: 🎓 known
+  - linked list: 🖐️ used
+  - doubly list: 🎓 known
+  - unrolled list: 👂 heard
+  - circular list: 🎓 known
+  - queue: 👂 heard
+  - stack: 👂 heard
+  - deque: 👂 heard
+  - tree: 🎓 known
+  - graph: 🙋 explained
+  - iterator: 🖐️ used
+  - mutable state: 👂 heard
+  - immutable state: 👂 heard
+  - serialization: 🎓 known
+  - string parsing: 🔬 researched
 - Process & style
-  - compiler
-  - transpiler
-  - linter
-  - polyfill
-  - debugger
-  - garbage collection
-  - refactoring
-  - code review
-  - antipatterns
-  - paradigm
-  - algorithm
-  - magic numbers
-  - hardcode
-  - complexity
-  - decomposition
-  - spaghetti
-  - silver bullet
-  - not invented here
-  - dead code
-  - unreachable code
-  - duplicate code
-  - exception
-  - return early
-  - unittest
+  - compiler: 🖐️ used
+  - transpiler: 👂 heard
+  - linter: 🔬 researched
+  - polyfill: 👂 heard
+  - debugger: 🖐️ used
+  - garbage collection: 🎓 known
+  - refactoring: 🔬 researched
+  - code review: 🙋 explained
+  - antipatterns: 🙋 explained
+  - paradigm: 🙋 explained
+  - algorithm: 🙋 explained
+  - magic numbers: 🙋 explained
+  - hardcode: 🙋 explained
+  - complexity: 🙋 explained
+  - decomposition: 🙋 explained
+  - spaghetti: 🙋 explained
+  - silver bullet: 🙋 explained
+  - not invented here: 🙋 explained
+  - dead code: 🙋 explained
+  - unreachable code: 🙋 explained
+  - duplicate code: 🙋 explained
+  - exception: 🎓 known
+  - return early: 👂 heard
+  - unittest: 👂 heard
   - git
   - github
