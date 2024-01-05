@@ -1,10 +1,10 @@
 ## Asynchronous programming
 
 - Theory
-  - Event loop
-  - try..catch
-  - Non-blocking
-  - Async I/O
+  - Event loop: 🎓 known
+  - try..catch: 🙋 explained
+  - Non-blocking: 👂 heard
+  - Async I/O: 👂 heard
   - Thread pool
   - Pattern Reactor
   - CAS operations
@@ -16,27 +16,27 @@
   - Race conditions
   - Dead locks
   - Live locks
-  - Concurrent programming
-  - Parallel programming
+  - Concurrent programming: 👂 heard
+  - Parallel programming: 👂 heard
   - Actor Model
   - Thread
-  - Process
+  - Process: 👂 heard
 - Async contracts
-  - Callbacks
-  - Callback-last-error-first
-  - Thenable
-  - Promise
-  - Async/await
+  - Callbacks: 🙋 explained
+  - Callback-last-error-first: 🎓 known
+  - Thenable: 👂 heard
+  - Promise: 🙋 explained
+  - Async/await: 🙋 explained
   - Future
   - Deferred
-  - Sync generator
-  - Async Generator
-  - Async Iterator
-  - Event
+  - Sync generator: 🖐️ used
+  - Async Generator: 🎓 known
+  - Async Iterator: 🖐️ used
+  - Event: 🙋 explained
   - Coroutine
   - Goroutine
   - Signal
-  - Stream
+  - Stream: 👂 heard
   - Chain of responsibility
   - Middleware
   - Locks
@@ -47,8 +47,8 @@
   - callbacks compose
   - async compose
 - Async abstractions interfaces
-  - EventEmitter
-  - Observable/Observer
+  - EventEmitter: 🎓 known
+  - Observable/Observer: 👂 heard
   - Readable
   - Writable
   - Transform
@@ -59,23 +59,23 @@
   - Mutex
   - Spin Lock
 - JavaScript & Node.js specific
-  - Timers
-  - setImmediate
+  - Timers: 🎓 known
+  - setImmediate: 🎓 known
   - nextTick
   - AbortController
   - AbortSignal
-  - Promise unhandled rejection
+  - Promise unhandled rejection: 👂 heard
   - Promise double resolve
   - child_process
   - worker_threads
-  - Atomics
+  - Atomics: 👂 heard
   - High resolution clock
   - Callback hell
   - Promise hell
   - ref() and unref()
-  - Error handling in async code
+  - Error handling in async code: 👂 heard
   - Better stack traces with return await
-  - JSON: streaming serialization
+  - JSON: streaming serialization: 👂 heard
   - promisify
   - callbackify
   - AsyncLocalStorage
@@ -84,10 +84,10 @@
   - async.js library
   - RxJS library
   - Async composition
-  - Promise.all
-  - Promise.allSettled
-  - Promise.race
-  - Promise.any
+  - Promise.all: 👂 heard
+  - Promise.allSettled: 👂 heard
+  - Promise.race: 👂 heard
+  - Promise.any: 👂 heard
   - Web Locks API
   - IPC
   - Channel API
