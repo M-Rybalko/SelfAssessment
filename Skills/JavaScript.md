@@ -11,79 +11,79 @@
   - instanceof: 🙋 explained
   - ...spread: 🔬 researched
   - ...rest: 🔬 researched
-  - typeof
-  - destructuring
-  - generator
-  - iterator
-  - async generator
-  - async iterator
-  - chaining
-  - optional chaining
-  - IIFE
-  - global
-  - globalThis
-  - window
-  - getters and setters
-  - __proto__
-  - prototype
-  - equality operators
-  - logical operators
-  - bitwise operators
-  - ternary operator
-  - void
-  - yield
-  - await
-  - template literal
-  - strict mode
-  - delete
-  - in
-  - super
-  - Symbol
-  - Reflect
+  - typeof: 🔬 researched
+  - destructuring: 🙋 explained
+  - generator: 🖐️ used
+  - iterator: 🙋 explained
+  - async generator: 🎓 known
+  - async iterator: 🖐️ used
+  - chaining: 🖐️ used
+  - optional chaining: 🎓 known
+  - IIFE: 🎓 known
+  - global: 🎓 known
+  - globalThis: 🎓 known
+  - window: 🎓 known
+  - getters and setters: 🎓 known
+  - __proto__: 🖐️ used
+  - prototype: 🖐️ used
+  - equality operators: 🔬 researched
+  - logical operators: 🔬 researched
+  - bitwise operators: 🙋 explained
+  - ternary operator: 🔬 researched
+  - void: 🎓 known
+  - yield: 🎓 known
+  - await: 🔬 researched
+  - template literal: 🎓 known
+  - strict mode: 🙋 explained
+  - delete: 🖐️ used
+  - in: 🔬 researched
+  - super: 🎓 known
+  - Symbol: 🙋 explained
+  - Reflect: 👂 heard
 - Statements
-  - if
-  - while
-  - do..while
-  - for
-  - for..in
-  - for..of
-  - for await
-  - throw
-  - break
-  - continue
-  - import
-  - export
-  - label
-  - try..catch
-  - switch
-  - class
-  - new Error
-  - with
+  - if: 🔬 researched
+  - while: 🔬 researched
+  - do..while: 🔬 researched
+  - for: 🔬 researched
+  - for..in: 🔬 researched
+  - for..of: 🔬 researched
+  - for await: 🎓 known
+  - throw: 🙋 explained
+  - break: 🎓 known
+  - continue: 🎓 known
+  - import: 🔬 researched
+  - export: 🔬 researched
+  - label: 🎓 known
+  - try..catch: 🙋 explained
+  - switch: 🎓 known
+  - class: 🙋 explained
+  - new Error: 🙋 explained
+  - with: 🎓 known
 - Functions
-  - function declaration
-  - function expression
-  - return
-  - default parameters
-  - functional object
+  - function declaration: 🙋 explained
+  - function expression: 🙋 explained
+  - return: 🙋 explained
+  - default parameters: 🙋 explained
+  - functional object: 🎓 known
 - Data structures
-  - Array
-  - mixin
-  - extend
-  - typed arrays
-  - Map
-  - Set
-  - undefined
-  - null
-  - Proxy
-  - weak collections
-  - timers
-  - EventEmitter
-  - RegExp
-  - Date
-  - BigInt
+  - Array: 🔬 researched
+  - mixin: 🎓 known
+  - extend: 🎓 known
+  - typed arrays: 🎓 known
+  - Map: 🖐️ used
+  - Set: 🖐️ used
+  - undefined: 🔬 researched
+  - null: 🔬 researched
+  - Proxy: 🎓 known
+  - weak collections: 🎓 known
+  - timers: 🎓 known
+  - EventEmitter: 🎓 known
+  - RegExp: 🙋 explained
+  - Date: 🙋 explained
+  - BigInt: 🙋 explained
 - Infrastructure
-  - V8
-  - Node.js
-  - npm
-  - prettier
-  - MDN
+  - V8: 🔬 researched
+  - Node.js: 🙋 explained
+  - npm: 🙋 explained
+  - prettier: 🙋 explained
+  - MDN: 🙋 explained
