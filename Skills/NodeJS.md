@@ -1,21 +1,21 @@
 ## Node.js and backend
 
 - Internals and concepts
-  - Strong and weak sides of node.js: 🎓 known
+  - Strong and weak sides of node.js: 🙋 explained
   - Stateful and stateless servers: 👂 heard
   - Nonblocking I/O and slocking code
   - Event loop: phases: 👂 heard
-  - Event loop: microtasks and macrotasks
+  - Event loop: microtasks and macrotasks: 👂 heard
   - Garbage collection: 👂 heard
-  - Node.js LTS schedule
+  - Node.js LTS schedule: 🎓 known
   - I/O-bound, CPU-bound, memory-bound tasks
-  - Interactive applications (close to real-time)
+  - Interactive applications (close to real-time): 👂 heard
 - Modularity, layers and dependencies
-  - CommonJS modules: 👂 heard
+  - CommonJS modules: 🎓 known
   - ECMAScript modules: 🎓 known
   - node:module : 🖐️ used
-  - Caching in CJS and ESM
-  - Modules as singletons
+  - Caching in CJS and ESM: 👂 heard
+  - Modules as singletons: 👂 heard
   - Contexts and scripts node:vm
   - Dependencies: npm, node_modules: : 🖐️ used
   - Dependencies: package.json and package lock: : 🖐️ used
@@ -26,15 +26,15 @@
   - Coupling and cohesion
   - Framework agnostic approach
 - Environment
-  - Command line arguments: 👂 heard
-  - Node.js CLI: 👂 heard
+  - Command line arguments: : 🎓 known
+  - Node.js CLI: : 🎓 known
   - Process-based permissions
-  - Graceful shutdown
+  - Graceful shutdown: 👂 heard
   - Clustering
   - Watch filesystem changes with --watch
 - Internal API
   - Streams API
-  - Web Streams API
+  - Web Streams API: 👂 heard
   - Crypto API: 👂 heard
   - Password hashing with node:crypto.scrypt
   - Web Crypto API: 👂 heard
@@ -55,22 +55,22 @@
   - MessageChannel, MessagePort
   - BroadcastChannel
   - Generating crypto random UUID
-  - node:url vs new URL
-  - node:assert
+  - node:url vs new URL : 👂 heard
+  - node:assert : 🎓 known
   - Internationalization
-  - Blob, File, Buffer, node:buffer
+  - Blob, File, Buffer, node:buffer : 👂 heard
   - Module node:zlib
 - Application structure and architecture
   - Isolation between layer
   - Multilayer approach
   - Separation of concerns
   - Inversion of control
-  - Dependency injection: 👂 heard
-  - GRASP: 👂 heard
-  - SOLID: 👂 heard
-  - GoF patterns: 👂 heard
+  - Dependency injection: 🎓 known
+  - GRASP: 🎓 known
+  - SOLID: 🎓 known
+  - GoF patterns: 🎓 known
   - Distributed systems: 👂 heard
-  - Highload applications
+  - Highload applications: 👂 heard
   - Clean architecture: 👂 heard
   - DDD
   - Message Queue
@@ -81,49 +81,49 @@
   - Serverless clouds
   - FaaS clouds
   - Fat controller
-  - GoF for Node.js
+  - GoF for Node.js: 👂 heard
   - Leaking abstractions
 - Network
   - IP sticky sessions
   - Endpoint throttling
   - HTTP(S): 🎓 known
-  - TCP/SSL: 👂 heard
-  - UDP: 👂 heard
-  - TLS: 👂 heard
-  - Websocket: 👂 heard
+  - TCP/SSL: 🎓 known
+  - UDP: 🎓 known
+  - TLS: 🎓 known
+  - Websocket: 🖐️ used
   - SSE
   - HTTP/3 (QUIC)
   - Long polling
-  - REST: 👂 heard
+  - REST: 🎓 known
   - RPC
-  - Routing
-  - DoS
-  - DDoS
+  - Routing: 🎓 known
+  - DoS: 👂 heard
+  - DDoS: 👂 heard
   - XSS
   - Path traversal
   - CSRF
   - DNS
   - Fetch API
   - IncomingMessage
-  - SQL injection
+  - SQL injection: 👂 heard
   - noDelay
-  - keep-alive
+  - keep-alive: 👂 heard
   - ALPN
   - SNI callback
   - SSL certificates
   - Protocol agnostic approach
 - Technique and tools
   - Native test runner
-  - Logging: 👂 heard
+  - Logging:: 🎓 known
   - Application configuring
   - Testing: 🎓 known
   - CI/CD: 👂 heard
-  - Readable
-  - Writable
+  - Readable: 👂 heard
+  - Writable: 👂 heard
   - Transform
   - back pressure
-  - Buffer: 👂 heard
-  - Console: 👂 heard
+  - Buffer: 🎓 known
+  - Console: 🎓 known
   - Inspector
   - Reliability
   - Quality
@@ -131,24 +131,24 @@
   - Flexibility
 - Data access
   - Data access layer
-  - Repository: 👂 heard
+  - Repository: 🎓 known
   - Active record
   - Query builder
   - Object-Relational Mapping
 - Error handling and debugging
   - Error: 🎓 known
-  - error.cause: 👂 heard
-  - error.code: 👂 heard
-  - error.message: 👂 heard
-  - error.stack: 👂 heard
+  - error.cause: 🎓 known
+  - error.code: 🎓 known
+  - error.message: 🎓 known
+  - error.stack: 🎓 known
   - How to avoid mixins
-  - Error.captureStackTrace
-  - Uncaught exceptions
+  - Error.captureStackTrace: 👂 heard
+  - Uncaught exceptions: 👂 heard
   - Heap dump
   - Debugging tools: 👂 heard
   - Flame graph
-  - Memory leaks
-  - Resource leaks
+  - Memory leaks: 👂 heard
+  - Resource leaks: 👂 heard
   - Data race
 - Integrations and bindings
   - Native addons
