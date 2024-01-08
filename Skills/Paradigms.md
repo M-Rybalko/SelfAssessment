@@ -8,44 +8,44 @@
   - Functional programming: 🎓 known
   - Prototype-based programming: 👂 heard
   - Object-oriented programming: 🎓 known
-  - Object-based programming: 👂 heard
-  - Generic programming
-  - Concurrent computing
-  - Asyncronous programming: 👂 heard
+  - Object-based programming: 🎓 known
+  - Generic programming: 👂 heard
+  - Concurrent computing: 👂 heard
+  - Asyncronous programming: 🎓 known
   - Parallel programming: 👂 heard
   - Reactive programming: 👂 heard
-  - FRP (Functional-reactive)
+  - FRP (Functional-reactive): 👂 heard
   - Automata-based programming: 👂 heard
   - Domain-specific languages: 👂 heard
-  - Multi-paradigm programming: 👂 heard
+  - Multi-paradigm programming: 🎓 known
   - Metaprogramming: 👂 heard
   - Actor model
 - OOP basics
-  - constructor: 🎓 known
-  - new: 🎓 known
-  - Static method: 🎓 known
-  - Method: 🎓 known
-  - Async method: 🎓 known
-  - Getters, Setters: 🎓 known
-  - Public fields: 🎓 known
-  - Private fields: 🎓 known
-  - Field declarations: 🎓 known
-  - Inheritance: 🎓 known
-  - Parent class: 🎓 known
-  - Polymorphism: 🎓 known
-  - Abstract class: 🎓 known
-  - Interface: 🎓 known
-  - Encapsulation: 🎓 known
+  - constructor: 🙋 explained
+  - new: 🙋 explained
+  - Static method: 🙋 explained
+  - Method: 🙋 explained
+  - Async method: 🙋 explained
+  - Getters, Setters: 🙋 explained
+  - Public fields: 🙋 explained
+  - Private fields: 🙋 explained
+  - Field declarations: 🙋 explained
+  - Inheritance: 🙋 explained
+  - Parent class: 🙋 explained
+  - Polymorphism: 🙋 explained
+  - Abstract class: 🙋 explained
+  - Interface: 🙋 explained
+  - Encapsulation: 🙋 explained
   - Hidden class: 👂 heard
   - Object form: 👂 heard
-  - instance: 👂 heard
+  - instance: 🎓 known
   - Introspection: 👂 heard
   - Reflection: 👂 heard
 - Patterns
-  - Singleton: 👂 heard
-  - Factory Method: 👂 heard
+  - Singleton: 🙋 explained
+  - Factory Method: 🎓 known
   - Abstract Factory: 👂 heard
-  - Adapter
+  - Adapter: 👂 heard
   - Observer: 👂 heard
   - Strategy
   - Facade
@@ -53,12 +53,12 @@
   - Chain of Responsibility
   - Command
   - Iterator: 👂 heard
-  - State
-  - Bridge
-  - Builder
+  - State: 👂 heard
+  - Bridge: 👂 heard
+  - Builder: 👂 heard
   - Prototype: 👂 heard
-  - Composite
-  - Decorator
+  - Composite: 👂 heard
+  - Decorator: 👂 heard
   - Flyweight
   - Mediator
   - Memento

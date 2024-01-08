@@ -11,29 +11,29 @@
   - heap: 🎓 known
   - function: 🔬 researched
   - procedure: 🔬 researched
-  - method: 🎓 known
+  - method: 🙋 explained
   - class: 🙋 explained
-  - prototype: 🎓 known
-  - event: 🎓 known
+  - prototype: 🙋 explained
+  - event: 🙋 explained
   - type: 🙋 explained
   - primitive types: 🙋 explained
   - reference types: 🙋 explained
-  - flag: 🎓 known
+  - flag: 🙋 explained
   - lexical scope: 👂 heard
-  - code block: 🎓 known
+  - code block: 🙋 explained
   - conditions: 🙋 explained
   - loops: 🙋 explained
   - assignment: 🙋 explained
   - regular expression: 🙋 explained
-  - interface: 👂 heard
-  - contract: 👂 heard
-  - module: 🎓 known
-  - call stack: 👂 heard
+  - interface: 🙋 explained
+  - contract: 🎓 known
+  - module: 🙋 explained
+  - call stack: 🎓 known
 - Functions
   - signature: 🙋 explained
   - argument: 🙋 explained
   - parameter: 🙋 explained
-  - pure function: 🖐️ used
+  - pure function: 🙋 explained
   - lambda expression: 🙋 explained
   - side effects: 🎓 known
   - closure: 🎓 known
@@ -42,7 +42,7 @@
   - higher order: 🎓 known
   - recursion: 🙋 explained
   - callback: 🙋 explained
-  - listener: 👂 heard
+  - listener: 🎓 known
   - compose: 👂 heard
   - pipe: 👂 heard
   - memoize: 👂 heard
@@ -56,12 +56,12 @@
   - array: 🔬 researched
   - structure: 🙋 explained
   - record: 🎓 known
-  - enum: 🎓 known
+  - enum: 🙋 explained
   - instance: 🙋 explained
   - object: 🙋 explained
   - class: 🙋 explained
   - collection: 🖐️ used
-  - set: 🖐️ used
+  - set: 🙋 explained
   - hash table: 🎓 known
   - linked list: 🖐️ used
   - doubly list: 🎓 known
@@ -75,7 +75,7 @@
   - iterator: 🖐️ used
   - mutable state: 👂 heard
   - immutable state: 👂 heard
-  - serialization: 🎓 known
+  - serialization: 🙋 explained
   - string parsing: 🔬 researched
 - Process & style
   - compiler: 🖐️ used
@@ -99,8 +99,8 @@
   - dead code: 🙋 explained
   - unreachable code: 🙋 explained
   - duplicate code: 🙋 explained
-  - exception: 🎓 known
-  - return early: 👂 heard
-  - unittest: 👂 heard
+  - exception: 🙋 explained
+  - return early: 🎓 known
+  - unittest: 🎓 known
   - git: 🙋 explained
   - github: 🙋 explained

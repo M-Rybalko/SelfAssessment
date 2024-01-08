@@ -39,7 +39,7 @@
   - in: 🔬 researched
   - super: 🎓 known
   - Symbol: 🙋 explained
-  - Reflect: 👂 heard
+  - Reflect: 🎓 known
 - Statements
   - if: 🔬 researched
   - while: 🔬 researched
@@ -47,7 +47,7 @@
   - for: 🔬 researched
   - for..in: 🔬 researched
   - for..of: 🔬 researched
-  - for await: 🎓 known
+  - for await: 🖐️ used
   - throw: 🙋 explained
   - break: 🎓 known
   - continue: 🎓 known
@@ -68,14 +68,14 @@
 - Data structures
   - Array: 🔬 researched
   - mixin: 🎓 known
-  - extend: 🎓 known
+  - extend: 🖐️ used
   - typed arrays: 🎓 known
-  - Map: 🖐️ used
-  - Set: 🖐️ used
+  - Map: 🙋 explained
+  - Set: 🙋 explained
   - undefined: 🔬 researched
   - null: 🔬 researched
   - Proxy: 🎓 known
-  - weak collections: 🎓 known
+  - weak collections: 🖐️ used
   - timers: 🎓 known
   - EventEmitter: 🎓 known
   - RegExp: 🙋 explained

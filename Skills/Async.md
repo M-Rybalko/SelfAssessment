@@ -5,7 +5,7 @@
   - try..catch: 🙋 explained
   - Non-blocking: 👂 heard
   - Async I/O: 👂 heard
-  - Thread pool
+  - Thread pool: 👂 heard
   - Pattern Reactor
   - CAS operations
   - epoll: 🙋 explained
@@ -38,24 +38,24 @@
   - Signal
   - Stream: 👂 heard
   - Chain of responsibility
-  - Middleware
+  - Middleware: 👂 heard
   - Locks
 - Async adapters and utils
-  - callbackify
-  - promisify
-  - asyncify
-  - callbacks compose
-  - async compose
+  - callbackify: 👂 heard
+  - promisify: 🖐️ used
+  - asyncify: 👂 heard
+  - callbacks compose: 👂 heard
+  - async compose: 👂 heard
 - Async abstractions interfaces
   - EventEmitter: 🎓 known
   - Observable/Observer: 👂 heard
-  - Readable
-  - Writable
+  - Readable: 👂 heard
+  - Writable: 👂 heard
   - Transform
-  - Async Pool
+  - Async Pool: 👂 heard
   - Async Queue
   - Async Collector
-  - Semaphore
+  - Semaphore: 👂 heard
   - Mutex
   - Spin Lock
 - JavaScript & Node.js specific
@@ -70,21 +70,21 @@
   - worker_threads
   - Atomics: 👂 heard
   - High resolution clock
-  - Callback hell
-  - Promise hell
-  - ref() and unref()
+  - Callback hell: 👂 heard
+  - Promise hell: 👂 heard
+  - ref() and unref(): 👂 heard
   - Error handling in async code: 👂 heard
   - Better stack traces with return await
   - JSON: streaming serialization: 👂 heard
-  - promisify
-  - callbackify
+  - promisify: 🖐️ used
+  - callbackify: 👂 heard
   - AsyncLocalStorage
   - AsyncResource
 - Techniques
   - async.js library
   - RxJS library
   - Async composition
-  - Promise.all: 👂 heard
+  - Promise.all: 🖐️ used
   - Promise.allSettled: 👂 heard
   - Promise.race: 👂 heard
   - Promise.any: 👂 heard
