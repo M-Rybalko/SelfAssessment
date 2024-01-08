@@ -7,7 +7,7 @@
   - Event loop: phases: 👂 heard
   - Event loop: microtasks and macrotasks
   - Garbage collection: 👂 heard
-  - Node.js LTS schedule
+  - Node.js LTS schedule: 👂 heard
   - I/O-bound, CPU-bound, memory-bound tasks
   - Interactive applications (close to real-time)
 - Modularity, layers and dependencies
